@@ -23,7 +23,7 @@ Hello visitor 🤖, my name is **Aneekendu Nag**, a passionate and ambitious **f
 I am skilled at frameworks such as **Angular**, **Flutter**, and **React-Native**. With nearly one year of hands-on experience in development, I have extensive experience working with **MERN**, **MEAN**, and **PEAN** stacks. 
 My proficiency spans multiple programming languages, including **Java**, **Dart**, **JavaScript**,**TypeScript**, **C**, **C++**, and **C#**.
 
-### Tech Stack 🔥
+### Tech Stacks I have used 🔥
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 
 ## Languages that I know 🔣
