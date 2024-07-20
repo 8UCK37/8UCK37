@@ -15,7 +15,7 @@
 ### Highlights 🔦
 * 😎 My name is **Aneekendu Nag**
 * 🌱 I’m currently learning **Go** and **Rust**
-* 📫 How to reach me aneekendu24@gmail.com
+* 📫 Email me at: aneekendu24@gmail.com
 <!-- * 👨‍💻 My portofolio avalible at: https://alvalens.my.id -->
 
 ### About Me 📄
