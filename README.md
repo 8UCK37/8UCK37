@@ -12,11 +12,11 @@
 </p> -->
 
 
-### highlight 🔦
+### Highlights 🔦
 * 😎 My name is **Aneekendu Nag**
 * 🌱 I’m currently learning **Go** and **Rust**
-<!-- * 👨‍💻 My portofolio avalible at: https://alvalens.my.id -->
 * 📫 How to reach me aneekendu24@gmail.com
+<!-- * 👨‍💻 My portofolio avalible at: https://alvalens.my.id -->
 
 ### About Me 📄
 Hello visitor 🤖, my name is **Aneekendu Nag**, a passionate and ambitious **fullstack developer** with a strong foundation in **Core Java** and **Spring-Boot** and a fervent dedication to the world of **Mobile Development**. Currently, I am a trainee at **LTIMindtree**.
