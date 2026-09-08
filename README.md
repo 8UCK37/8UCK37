@@ -38,10 +38,3 @@ I am skilled at frameworks such as **Angular**, **React**, **Next.js**, and **Fl
 </a>
 <br>
 <br>
-
-### GitHub Stats 📈
-<div align="center">
-  <a href="https://github.com/8UCK37">
-    <img src="https://github-readme-stats.vercel.app/api?username=8UCK37&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5" alt="GitHub Stats" />
-  </a>
-</div>
